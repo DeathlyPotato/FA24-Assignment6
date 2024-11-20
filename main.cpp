@@ -1,9 +1,7 @@
 /*
-    Name: Chen, Isaac, 2002582920, CS 135 1001, Assignment 5
+    Name: Chen, Isaac, 2002582920, CS 135 1001, Assignment 7
     Description: Creating a C++ program that takes in a file
-    as input and a choice of action. It will provide different
-    information as well as the ability to change/update student
-    scores
+    as input and then calculates student informations
     Input: grades file, selection of what to do
     Output: Whatever option you want about student info
 */
